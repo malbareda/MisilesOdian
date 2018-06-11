@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 53b3e391c7cef674b9931151ac249710
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cam: {instanceID: 0}
+  - player: {fileID: 1366106471241462, guid: 9939071ea65c69e4f980080fbf982e4f, type: 2}
+  - explosion: {fileID: 100004, guid: c1864201ae7face4e905615a41fd9977, type: 2}
+  - agent: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
